@@ -1,3 +1,5 @@
+<h4><a href="https://github.com/shavidzet/electron-zeplin-webview/releases/download/0.0.1/electron-zeplin-webview_0.0.1_amd64.deb">Download now for linux distros</a></h4>
+
 <img src="https://i.imgur.com/fgPzr6W.png" width="200px" /> <img src="https://i.imgur.com/qAOpyW7.png" width="200px" />
 
 # electron-zeplin-webview
