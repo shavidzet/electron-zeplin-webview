@@ -2,6 +2,8 @@
 
 <img src="https://i.imgur.com/fgPzr6W.png" width="200px" /> <img src="https://i.imgur.com/qAOpyW7.png" width="200px" />
 
+<img src="http://i.imgur.com/segdvpf.png" />
+
 # electron-zeplin-webview
 
 > An electron-vue project
